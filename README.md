@@ -1,1 +1,3 @@
 # Shooting
+--------------
+Eclipse Java Project
